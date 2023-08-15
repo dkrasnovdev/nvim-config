@@ -1,6 +1,6 @@
 # Neovim setup
 
-![nvim screenshot](./images/nvim.jpg)
+![nvim screenshot](./images/nvim.png)
 
 Requires [Neovim](https://neovim.io) (>=0.8)
 
