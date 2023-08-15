@@ -1,5 +1,7 @@
 # Neovim setup
 
+![nvim screenshot](./images/nvim.jpg)
+
 Requires [Neovim](https://neovim.io) (>=0.8)
 
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A plugin manager for Neovim
