@@ -15,8 +15,8 @@ treesitter.setup {
     "rust",
     "c",
     "lua",
-    "vimdoc",
-    "help" },
+    "vimdoc"
+  },
   sync_install = false,
   auto_install = true,
   highlight = {
