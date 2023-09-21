@@ -65,4 +65,6 @@ return require('packer').startup(function(use)
       'JoosepAlviste/nvim-ts-context-commentstring'
     }
   }
+
+  use 'github/copilot.vim'
 end)
