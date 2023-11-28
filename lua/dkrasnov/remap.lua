@@ -43,5 +43,5 @@ vim.keymap.set("n", "<leader>gc", "<cmd>Git commit -v -q<CR>")
 vim.keymap.set("n", "<leader>gp", "<cmd>Git push<CR>")
 
 vim.keymap.set("n", "<leader><leader>", function()
-  vim.cmd("so")
+  vim.cmd("silent Neoformat")
 end)
